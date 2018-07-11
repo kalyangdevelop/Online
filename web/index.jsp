@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <button><a href='/home' title='Home'><b>Online Shopping</b>></a></button>
   </body>
 </html>
